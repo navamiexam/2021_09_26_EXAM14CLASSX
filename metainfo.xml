@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="C49A16AF-3DA0-4EC8-BCB5-A3D9499D990D" version="0">
+	<info>
+		<title>2021_09_26_EXAM14CLASSX</title>
+		<description/>
+	</info>
+	<files index="id38" thumbnail="id34" totalSize="2578090">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/html5-unsupported.html</file>
+		<file id="id10">data/html5.png</file>
+		<file id="id11">data/images/4295-9316-4dd0-540f.png</file>
+		<file id="id12">data/images/4640-cb33-00db-3a30.png</file>
+		<file id="id13">data/images/93cd-9f28-3567-cc36.png</file>
+		<file id="id14">data/images/af16-fffc-546e-b450.png</file>
+		<file id="id15">data/images/img-14a6ffa27783985a3dc1256d4247d7e21023e762.png</file>
+		<file id="id16">data/images/img-1c962cf5bba927e5807a94ea7ad46419e9b5f502.png</file>
+		<file id="id17">data/images/img-29a6f86ab16fe859f3d82c0e81986a4cf634b170.png</file>
+		<file id="id18">data/images/img-3dcc8fa7432cb24302497cab7d8b73b1244a9c77.png</file>
+		<file id="id19">data/images/img-504a68584548ee0ffbac7a838e2746cec73190bc.png</file>
+		<file id="id20">data/images/img-504e4f268669bfd3a599b4452aca456d3e5a1159.png</file>
+		<file id="id21">data/images/img-5f8a6b730ac8d2a74803236182f36e925ae798d3.png</file>
+		<file id="id22">data/images/img-5fdce1629af721a267d489115cb6789247d7672c.png</file>
+		<file id="id23">data/images/img-663a306b3a04fe927122871101dd23e842ae9b50.png</file>
+		<file id="id24">data/images/img-72d1d72de701612dc3c1482ff505ce8403c914a0.png</file>
+		<file id="id25">data/images/img-896b89b00fbc3fd7b3821edc659162b6c197f192.png</file>
+		<file id="id26">data/images/img-920f48c28a1fa56f16884e79e7c8423c88af6e0d.png</file>
+		<file id="id27">data/images/img-9975c25a9b7895e30bd3777a4db5f1c57c2eb627.png</file>
+		<file id="id28">data/images/img-a9e63d1789c62b097ae702cdafd249fa50695c9b.png</file>
+		<file id="id29">data/images/img-bf081e18e79b021437e7aa91e83951b97a183dbf.png</file>
+		<file id="id30">data/images/img-bf11889cff325f7fed88a75d3c3ba074029c655d.png</file>
+		<file id="id31">data/images/img-c23dd2f37a64c00187d5db0d04c04c0b6528a974.png</file>
+		<file id="id32">data/ismplayer/app_store2x.png</file>
+		<file id="id33">data/ismplayer/play.svg</file>
+		<file id="id34">data/ismplayer/preview.png</file>
+		<file id="id35">data/ismplayer/style.css</file>
+		<file id="id36">data/ismplayer/style_mini.css</file>
+		<file id="id37">data/player.js</file>
+		<file id="id38">index.html</file>
+		<file id="id39">ismplayer.html</file>
+		<file id="id40">preview.png</file>
+	</files>
+</presentation>
+
